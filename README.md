@@ -31,7 +31,8 @@ This is an **observational, interrupted time-series study**.
 - **Secondary analysis:** 24 months post (Aug 2025 – Jul 2027).  
 - **Final analysis:** 36 months post (Aug 2025 – Jul 2028).  
 - **Sampling:** All citing works indexed in [OpenAlex](https://openalex.org/authors/A5080711096).  
-- **Exclusion:** self-citations excluded from primary analysis.  
+- **Exclusion:** self-citations excluded from primary analysis.
+- **Citation report platform**: https://www.citation-report.com
 
 ---
 
@@ -153,3 +154,4 @@ It provides a permanent, timestamped record of this novel research question.
 - Radicchi F. *Comments on scientific articles: Influences on citations and impact*. arXiv:1209.4997, 2012.  
 - Bozzo A, et al. *Do critical letters affect citation trajectories?* arXiv:2412.02809, 2024.  
 - King MM, et al. *Men set their own cites high: Gender and self-citation*. arXiv:2109.09192, 2017.  
+
