@@ -1,7 +1,7 @@
 # Preregistration Protocol: Effect of Public Self-Review on Citation Inflow
 **Author:** Amir Omidvarnia  
 
-![Citation report](assets/battery.png)
+![Citation report](cover.png)
 
 **Website:** https://www.citation-report.com
 ---
@@ -157,6 +157,7 @@ It provides a permanent, timestamped record of this novel research question.
 - Radicchi F. *Comments on scientific articles: Influences on citations and impact*. arXiv:1209.4997, 2012.  
 - Bozzo A, et al. *Do critical letters affect citation trajectories?* arXiv:2412.02809, 2024.  
 - King MM, et al. *Men set their own cites high: Gender and self-citation*. arXiv:2109.09192, 2017.  
+
 
 
 
